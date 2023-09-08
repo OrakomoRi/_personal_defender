@@ -16,8 +16,21 @@
 <hr>
 
 <h3 align="center">Usage</h3>
+
 <div>
-	<p>Not available yet.</p>
+	<h4>Custom styles</h4>
+	<p>
+		Download
+		<a href="https://www.tampermonkey.net/">Tampermonkey</a>
+	</p>
+	<p>
+		Enable
+		<a href="https://github.com/OrakomoRi/_personal_defender/raw/main/UnknownStyles.user.js">script</a>
+		in Tampermonkey
+	</p>
+</div>
+<div>
+	<p>Clicker is not available yet.</p>
 </div>
 
 <hr>
