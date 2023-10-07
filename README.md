@@ -24,7 +24,7 @@
 
 <h3 align="center">Look of the popup window</h3>
 <div align="center">
-	<img style="max-height: 50px" src="https://github.com/OrakomoRi/_personal_defender/blob/main/images/MainWindow.png" alt="Main Window">
+	<img style="max-height: 50px" src="https://github.com/OrakomoRi/_personal_defender/blob/main/images/Clicker.png" alt="Main Window">
 </div>
 
 <hr>
